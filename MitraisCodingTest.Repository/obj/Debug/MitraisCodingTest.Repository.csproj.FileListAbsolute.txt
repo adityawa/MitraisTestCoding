@@ -1,0 +1,11 @@
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\bin\Debug\MitraisCodingTest.Repository.dll.config
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\bin\Debug\MitraisCodingTest.Repository.dll
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\bin\Debug\MitraisCodingTest.Repository.pdb
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\bin\Debug\EntityFramework.dll
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\bin\Debug\EntityFramework.xml
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\obj\Debug\MitraisCodingTest.Repository.csprojAssemblyReference.cache
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\obj\Debug\MitraisCodingTest.Repository.csproj.CopyComplete
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\obj\Debug\MitraisCodingTest.Repository.dll
+D:\Adit\Project\Private\Mitrais\MitraisCodingTest\MitraisCodingTest.Repository\obj\Debug\MitraisCodingTest.Repository.pdb
